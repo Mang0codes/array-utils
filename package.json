@@ -1,0 +1,23 @@
+{
+  "name": "mango-array-utils",
+  "version": "1.0.0",
+  "description": "A utility package to extend JavaScript arrays with additional methods.",
+  "main": "index.js",
+  "keywords": [
+    "array",
+    "utility",
+    "chunk",
+    "flatten",
+    "unique",
+    "shuffle"
+  ],
+  "author": "Albia",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "array-utils": "^0.0.6",
+    "mango-array-utils": "^1.0.0"
+  }
+}
